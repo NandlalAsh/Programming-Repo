@@ -4,5 +4,5 @@
 /**
  * 
  */
-module SimpleProject {
-}
+//module SimpleProject {
+//}
